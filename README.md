@@ -1,4 +1,4 @@
-# Disease-prediction-project-on-Jupyter-Notebook
+# Disease prediction project on Jupyter Notebook
 Disease prediction project on Jupyter Notebook Code, Document And Video Tutorial
 
 ![Disease Predcition ](https://github.com/user-attachments/assets/ed69f9ac-85a6-4de8-854b-23fb86f692e1)
